@@ -1,0 +1,14 @@
+If you have ever programmed in C or C++, you might have encountered some complex declarations like -:
+<code>char *(*(**foo[][8])())[];</code>
+or
+<code>int (*(*foo)(void ))[3]</code>
+( Don't ask me how or where these variables would be useful )
+
+Wouldn't it be great if we could just enter such complex declarations into some program and it could output its meaning in "plain English", like -:
+
+<em>"declare x as const pointer to const pointer to pointer to char"</em>, for <code>char ** const * const x</code>
+
+Well, seems like there is a program made just for it - <a href="http://cdecl.org/" title="cdecl">cdecl</a>.
+It can even do the opposite !! - <strong>convert a declaration written in plain English to its equivalent code !</strong>
+
+Or if you want to learn how to read such declarations without any program, you may refer to <a href="http://unixwiz.net/techtips/reading-cdecl.html">this article</a>.

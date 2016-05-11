@@ -1,0 +1,24 @@
+For all the C++ developers who have ever felt the need to print different types of objects in your source code in a neat and structured format ( perhaps for debugging ), I have made a set of function templates to ease your pain.<br>
+<br>
+<a title="Prettyprint" href="https://github.com/anmol-singh-jaggi/Pretty-print/blob/master/prettyprint.hpp">Pretty-print.hpp</a><br>
+<br>
+Usage -:<br>
+<br>
+<a title="example1" href="https://github.com/Anmol-Singh-Jaggi/Pretty-print/blob/master/examples/example1.cpp">example1.cpp</a><br>
+<a title="example2" href="https://github.com/anmol-singh-jaggi/Pretty-print/blob/master/examples/example2.cpp">example2.cpp</a><br>
+<br>
+Now, after looking at the code, you might be wondering why is the overload of <code>operator<<</code> for an array is so much different from that of the rest of the data types.<br>
+<br>
+This is because there is already an implementation of <code>operator<<</code> for arrays in C++.<br>
+<code>operator<<</code> has two overloaded versions, one for <code><a href="http://www.cplusplus.com/reference/ostream/ostream/operator%3C%3C/">const void*</a></code> and the other for <code><a href="http://www.cplusplus.com/reference/ostream/ostream/operator-free/">const char*</a></code>.<br>
+A <code>char</code> array is converted to <code>const char*</code> and passed to that overload, because it fits better than to <code>const void*</code>. The <code>int</code> array, however, is converted to <code>const void*</code> and passed to that version.<br>
+The version of <code>operator<<</code> taking <code>const void*</code> just outputs the address, whereas the version taking the <code>const char*</code> actually treats it like a C-string and outputs every character until the terminating null character.<br>
+<br>
+All this can be seen in action <a title="example3" href="https://github.com/anmol-singh-jaggi/Pretty-print/blob/master/examples/example3.cpp">here</a>.<br>
+<br>
+Therefore, by overloading the <code>operator<<</code> for an array, we are creating an ambiguity for the compiler.<br>
+You can confirm it yourself by trying to compile <a title="example4" href="https://github.com/anmol-singh-jaggi/Pretty-print/blob/master/examples/example4.cpp">this</a>, and reading the error given by the compiler in which the multiple ambiguous declarations are pointed out.<br>
+( <b><i>TIP</i></b> : Execute <code>g++ example4.cpp 2>log.txt</code> to redirect the compilation error to a file for better readability. )<br>
+
+We can overcome this problem using template wizardry.<br>
+By using the <code><a href="http://en.cppreference.com/w/cpp/types/enable_if">enable_if</a></code> template feature to explicitly specify the types for which a function is overloaded, we can instruct the compiler to not call our custom overloaded function if the <code>operator<<</code> is called with a <code>char</code> array.<br>
