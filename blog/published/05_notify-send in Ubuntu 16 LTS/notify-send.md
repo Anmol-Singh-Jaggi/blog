@@ -12,7 +12,7 @@ Here I hit another road block; [notify-send](http://ss64.com/bash/notify-send.ht
 I remember it happening in Ubuntu 14 too; the reason was that the environment in which cron operates is [very minimalist](http://askubuntu.com/a/23438/173003), and *notify-send* required the presence of a certain environment variable [`DISPLAY=0:0`](http://askubuntu.com/a/472769/173003) to work.  
 So, I easily fixed this problem by [adding the definition of that variable inside the cron script](https://github.com/Anmol-Singh-Jaggi/gDrive-auto-sync/blob/674c7ee67c686d5d148253e179d3cc20efef6872/gDrive-auto-sync/crontab.txt#L27).  
 
-But this trick wasn't working anymore in Ubuntu 16!  
+But this trick wasn't working anymore in Ubuntu 16 !  
 
 After googling **a lot** and trying many different hacks, I finally [found the solution](http://unix.stackexchange.com/a/10126/42552):  
 
