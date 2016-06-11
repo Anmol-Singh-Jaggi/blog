@@ -6,3 +6,6 @@
 -> strict weak ordering in C++ sort().
 -> Chandra swami
 -> Music generation.
+-> How ffmpeg screen recording works (superuser question)
+-> ffmpeg screen recording steps
+ -> Explain byzanz-record also
