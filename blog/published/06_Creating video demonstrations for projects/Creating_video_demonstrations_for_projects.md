@@ -8,7 +8,7 @@ How to do that is the subject of this blog post.
 
 ----------------------------
 
-Firstly, we'll need to record a video showing the project live in action.  
+Firstly, we'll need to record a video showing the project in action.  
 There are [many custom screencasting solutions](http://askubuntu.com/q/4428/173003) available for doing that.  
 However, most of them have some problem or the other, or are available for a single platform only.  
 
