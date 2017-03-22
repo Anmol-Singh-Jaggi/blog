@@ -1,7 +1,6 @@
 -> Why fflush(stdin) is wrong and "cin.ignore(std::numeric_limits<std::streamsize>::max())" is right
--> Python for-else
 -> a.py
 -> regex in c++ main12c in spoj
 -> strict weak ordering in C++ sort().
--> Chandra swami
 -> Music generation.
+-> Drools custom calendars.
