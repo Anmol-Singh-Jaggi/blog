@@ -22,8 +22,9 @@ So, [here are the steps](https://youtu.be/6zXDo4dL7SU):
 9. **Keep saving the project frequently as Audacity hangs too much.**
 10. Now, starting from the beginning, shift every existing segment to the left to align with its previous segment in alternating tracks such that the end of one track overlaps with the beginning of the next track on its right. (1st segment in 1st track, 2nd segment in 2nd track, 3rd segment in 1st track and so on...)
 11. You are done! At this point, you will be pretty astonished at how easy it was, so just unplug your computer and take deep breaths.
-12. Fffffuuuuuu.... forgot one thing! - To save everything, `*export*` everything [ as an mp3 (quality = 'Extreme') or as an .ogg (quality = 5) ]. If all your progress was lost due to the previous step, then go to Step 1 and skip step 11.
-13. Share this post every where you can; Facebook, Twitter, Instagram, Youtube, Google+ (you should introspect if you are using this btw). Spam it to every one in your Gmail contacts. Whatsapp to every person you know, even if it risks your friendship with them. This step is the most crucial one. Without this, your music will sound more lifeless than my 1-million-year-old grandma.
+12. Fffffuuuuuu.... forgot one thing! To save everything, `*export*` everything [ as an mp3 (quality = 'Extreme') or as an .ogg (quality = 5) ].
+13. If all your progress was lost due to the previous step, then go to Step 1 and then to step 16.
+14. Share this post every where you can; Facebook, Twitter, Instagram, Youtube, Google+ (you should introspect if you are using this btw). Spam it to every one in your Gmail contacts. Whatsapp to every person you know, even if it risks your friendship with them. This step is the most crucial one. Without this, your music will sound more lifeless than my 1-million-year-old grandma.
 
 I have screencasted the whole process and posted a live demo [here](https://youtu.be/FoIADR6Nhv0) for all the folks who don't know how to read.  
 In this demo, [this](https://soundcloud.com/user-693671739/input-mixtape) is the  mixtape, and [this](https://soundcloud.com/user-693671739/output-mixtape) is the result post editing.
