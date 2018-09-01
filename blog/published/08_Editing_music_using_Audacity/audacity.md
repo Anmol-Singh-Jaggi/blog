@@ -2,7 +2,7 @@ This one is for all the people who like music (who doesn't btw?).
 
 I will showcase on how to edit music using a free software called [Audacity](https://www.audacityteam.org/).  
 Specifically, we will be editing 'mixtape' kind of music, in which there are multiple songs interwined into a single track.  
-The background behind is this - a looonng time back, when the Earth's crust was still solidifying, I used to listen and record radio on Saturday nights, where some [very talented DJ's](https://www.submerge.in/artists/nikhil-chinapa/) would play [fantastic music](https://soundcloud.com/nikhilchinapa) in the form of mixtapes. The problem was that the DJ would keep on blabbering something in between and I used to like at max 40-50% of the songs in the whole thing. So, I decided to "cut out" those songs from the recording.
+The background behind is this - a looonng time back, when the Earth's crust was still solidifying, I used to listen and record radio on Saturday nights, where some [very talented DJ's](https://www.submerge.in/artists/nikhil-chinapa/) would play [fantastic music](https://soundcloud.com/nikhilchinapa) in the form of a [megamix](https://en.wikipedia.org/wiki/Megamix). The problem was that the DJ would keep on blabbering something in between and I used to like at max 40-50% of the songs in the whole thing. So, I decided to "cut out" those songs from the recording.
 
 Although I have stopped listening to radio, I still download fresh music ~~illegally~~ from Youtube (shhhh! don't tell anyone pliez), and edit that according to my taste.
 
