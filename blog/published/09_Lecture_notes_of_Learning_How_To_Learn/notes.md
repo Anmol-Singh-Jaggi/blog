@@ -1,19 +1,19 @@
-![Cute baby laughter meme](assets/love-learning.png "Yeah right")
+![Cute baby laughter meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/love-learning.png "Yeah right")
 
-In this blog post, I will be summarizing the wonderful and enlightening online couse [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn).  
+In this blog post, I will be summarizing the tremendously enlightening online course [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn).  
 This course contains research-backed insights and techniques to improve your learning and thinking prowess, enabling you to understand anything better and faster.  
 
 Here are the key actionable points that I have summarized from the video lectures and the optional readings:  
 
  - **Focused vs Diffused mode**: Whenever you are focusing on something to understand/create new ideas and are not able to progress, sometimes it helps to relax and go for a walk to turn on the `diffuse` mode. Maybe the idea will occur to your subconscious mind.
  - **Anti-Procrastination techniques**  
-   ![Facebook procrastination meme](assets/procrastination-fb.jpg "Give your smartphone to me and get a feature phone")  
+   ![Facebook procrastination meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/procrastination-fb.jpg "Give your smartphone to me and get a feature phone")  
    This has been especially useful to me considering me serial procrastinator background.
    - `Pomodoro` -> 25 mins work + 5 mins break = 1 session. Because attention span is short.
    - `20 second rule` -> Just focus and do the first smallest step of the task (which probably takes seconds).
    - `3 second rule` -> If feeling afraid/lazy to do some action, count to 3 and do it anyway.
    - `Mindfulness` -> Be aware of the `cues` (location/time/feelings) that lead you astray.
-   ![Hagrid procrastinating on Youtube meme](assets/procrastination_yt.png "Could have been way worse")
+   ![Hagrid procrastinating on Youtube meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/procrastination_yt.png "Could have been way worse")
  - While studying, write down question related to the content. After finishing, try to answer them.
  - Make notes/summary! Very important!
  - **30 second rule**: After a lecture/reading, write down the summary of the most important stuff `in your own words` in exactly 30 seconds (no less, no more!).
@@ -21,11 +21,11 @@ Here are the key actionable points that I have summarized from the video lecture
  - Break problem into individual small tasks.
  - Writing creates stronger neural patterns than typing.
  - Write an explanation of the topic assuming it would be read by a 10 year old.  
-   ![Baby studying general relativity](assets/baby-relativity.jpg "The pressure is too damn high")
+   ![Baby studying general relativity](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/baby-relativity.jpg "The pressure is too damn high")
  - Do the hardest thing first!
  - **Motivation**: Always remind yourself of the objective for your effort. Whether it be college admission, getting a good job, good life etc.
  - Use **visual imagery**: Our brain is able to remember visual impressions much more easily than textual data due to evolution. So, use *memory palaces* and ridiculous/funny/memorable visuals for an equation/concept!
-   ![Physics equations on Batman hitting joker](assets/batman-physics.jpg "Calculate the loudness of Joker's laughter in Decibels")
+   ![Physics equations on Batman hitting joker](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/batman-physics.jpg "Calculate the loudness of Joker's laughter in Decibels")
  - Don't highlight text!
  - Don't do passive reading!
  - Don't solve the same types of problems repeatedly. Solve one type of problem from one topic; then move to next type.
@@ -35,7 +35,7 @@ Here are the key actionable points that I have summarized from the video lecture
  - Sleep, diet and `exercise`!! Exercise is better than any drug on the market for your brain. 
  - Practice makes perfect; but follow Pomodoro religiously!
  - Creativity is more probable in a group setting, but make sure that too much time is not getting wasted in gossip.
-   ![Group study meme](assets/group-study-meme.jpg)
+   ![Group study meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/group-study-meme.jpg)
  - Success in life comes from persistence, not from intelligence.
  - Short term memory is just 5-8 chunks(concepts). But the content in those chunks can get bigger.
  - While learning a language, its okay to make mistakes; practice with someone anyways!
@@ -50,7 +50,7 @@ Here are the key actionable points that I have summarized from the video lecture
  - *Increase `Luck`*:
    - Follow your intuitions sometimes rather than always being rational.
    - Dont be too rigid and follow a strict routine. Be random (Before a party, think of a color and then start conversations with people wearing that colour.)  
-     ![Social gathering scene](assets/party.jpg "Go talk to them and get embarassed")
+     ![Social gathering scene](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/party.jpg "Go talk to them and get embarassed")
    - Always see the positive side of life.
  - Multitasking is evil!
  - Habit is an energy-saver -> Use the zombie mindset to your advantage.
@@ -61,16 +61,16 @@ Here are the key actionable points that I have summarized from the video lecture
  - Imagine that you are understanding yourself (Imagine you are an electron revolving around the nucleus).
  - A good memory might inhibit you from becoming creative.
  - Try to recall concepts in different physical locations/contexts so that the concept isn't associated/hardwired just to that location.
-   ![Learning location bathroom vs classroom meme](assets/contextual-independent-learning-washroom.jpg "I cant do it even in the washroom")
+   ![Learning location bathroom vs classroom meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/contextual-independent-learning-washroom.jpg "I cant do it even in the washroom")
  - Teenagers are more impulsive because the area of the brain that influences will power is not completely formed until the early 20s.
-   ![Teenagers fighting](assets/teenage-fight.jpg "Teenagers are stupid")
- - Friends can act as a validator/devil's advocate to verify your solutions to a new problem.
+   ![Teenagers fighting](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/teenage-fight.jpg "Teenagers are stupid")
+ - Friends can act as a devil's advocate to verify your solutions to a new problem.
  - Before a test, go through the Richard Felder checklist.
  - On a test, first read all the questions. Then start with the hardest problems. If stuck, then switch to the easy problems and then back to the difficult ones. The reason is that switching away from the hard problem will trigger the diffuse mode which might lead to the answer popping in your subconscious mind later.
  - On the day of the test, take it easy; just attempt the test in a non-serious curious playful attitude.
-   ![Anti-stress meme](assets/exam-stress.jpg "Chill")
+   ![Anti-stress meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/exam-stress.jpg "Chill")
  - To avoid old-age memory problems like *Alzheimers*, be a polymath and just keep learning something new (crosswords and puzzles dont count!).
-   ![Grandma lab partner dies meme](assets/old-age-memory.png "I hope I dont go to hell")
+   ![Grandma lab partner dies meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/old-age-memory.png "I hope I dont go to hell")
  - The more curious you are about something, the better you'll learn.
  - You are the average of of your friends.
  - Short-term stress is actually optimal for learning, but long term is bad.
@@ -92,5 +92,5 @@ Here are the key actionable points that I have summarized from the video lecture
      - Is everything covered?
 
 
-![Brain](assets/brain.jpg "Your brain with all the bullshit around it" )
+![Brain](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/aa77eb8d25b67d48602fd72695e9859637198034/blog/published/09_Lecture_notes_of_Learning_How_To_Learn/assets/brain.jpg "Your brain with all the bullshit around it" )
 *Studies show that readers are more likely to believe articles related to the brain if there is an actual photo of the brain present somewhere.
