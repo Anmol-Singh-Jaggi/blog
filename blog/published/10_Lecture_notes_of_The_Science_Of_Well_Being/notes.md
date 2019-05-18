@@ -218,7 +218,7 @@ Here are some of the thought-provoking insights from the course:
  - Increase variety; Do more things and dont do the same thing frequently.
  - Don't watch TV!
  - Quit all social networking websites!  
-  ![Quit social networks](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/facebook.jpg "not going to happen..")  
+  ![Quit social networks](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/facebook.png "not going to happen..")  
 
 ----------
 
