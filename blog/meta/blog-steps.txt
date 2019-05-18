@@ -1,0 +1,12 @@
+Steps to write a blog:
+ - Write content
+ - Add images with relative local location.
+ - Name the images as generic as possible.
+ - Try to find images of the highest resolution possible.
+ - Spell-check.
+ - Commit to Github.
+ - Change relative image urls to absolute from Github.
+ - Use [this](https://markdowntohtml.com/) to generate HTML.
+ - Insert HTML in wordpress HTML editor.
+ - Fix image sizes if needed from the visual editor.
+ - Add Headings, font color changes etc and make final changes using the visual editor.
