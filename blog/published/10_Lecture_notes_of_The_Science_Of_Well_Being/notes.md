@@ -28,7 +28,7 @@ Here are some of the thought-provoking insights from the course:
 **What does make you happy:**
  - Random acts of kindness - Help stranger/coworker, give compliments.  
  ![Compliments fishing meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/compliment.png "You are awesome! Yeah you!!")
- - Charity - Donate clothes, money, blood etc.  
+ - Charity - Donate food, clothes, money, blood etc.  
  ![Charity meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/charity.jpg "Better than nothing")
  - Volunteering.  
   ![Volunteering meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/volunteering.jpg "Look harder")
@@ -80,7 +80,7 @@ Here are some of the thought-provoking insights from the course:
  - Spending money on others gives more happiness than doing it on yourself.
  - No need to spend a fortune.  
    Spending $5 on someone else gives the same benefit as $20.  
-![Charity heart](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/charity-heart.jpg "Start with me!!")  
+![Charity](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/kindness.jpg "Start with me!!")  
 
 **4. Social connections**
  - Engage in small talk in train/bus/subway. Share a banana ;)  
