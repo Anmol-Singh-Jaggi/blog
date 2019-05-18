@@ -80,7 +80,7 @@ Here are some of the thought-provoking insights from the course:
  - Spending money on others gives more happiness than doing it on yourself.
  - No need to spend a fortune.  
    Spending $5 on someone else gives the same benefit as $20.  
-![Charity](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/kindness.jpg "Start with me!!")  
+![Charity](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/kindness.png "Start with me!!")  
 
 **4. Social connections**
  - Engage in small talk in train/bus/subway. Share a banana ;)  
