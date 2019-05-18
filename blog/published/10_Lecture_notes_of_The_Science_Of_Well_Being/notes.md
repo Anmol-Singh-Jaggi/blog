@@ -1,45 +1,43 @@
-![The keys to happiness meme](assets/the-keys-to-happiness.jpg ":(")
+![The keys to happiness meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/the-keys-to-happiness.jpg ":(")
 
-Continuing my new-found hobby of [summarizing online courses](https://anmolsinghjaggi.wordpress.com/2019/03/29/learning-how-to-learn/), in this article I will be outlining [Yale University's most popular course ever](https://www.nytimes.com/2018/01/26/nyregion/at-yale-class-on-happiness-draws-huge-crowd-laurie-santos.html) *The Science of Well-Being<sup>TM</sup>*.  
+Continuing my new-found hobby of [summarizing online courses](https://anmolsinghjaggi.wordpress.com/2019/03/29/learning-how-to-learn/), in this article I will be outlining Yale University's [most popular course ever](https://www.nytimes.com/2018/01/26/nyregion/at-yale-class-on-happiness-draws-huge-crowd-laurie-santos.html) - **[The Science of Well-Being<sup>TM</sup>](https://www.coursera.org/learn/the-science-of-well-being)**.  
 
 Here are some of the thought-provoking insights from the course:  
 
 - This generation is less happier than the older. Anti-depressant usage has gone up by 400%.  
-![Old people are happier](assets/old-people-more-happy.jpg "Old is Gold!")
+![Old people are happier](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/old-people-more-happy.jpg "Old is Gold!")
 - Happiness is 50% genetic, 10% luck and **40% controllable**. 
 
-------------------------------------------------------------------------
 
 **What does NOT make you happy:**
  - Nice job.  
- ![Job orientation meme](assets/job-orientation-meme.jpg "One last chance!")  
- ![Job happiness meme](assets/job-happiness-meme.jpg "Gotta pay those bills!")
+ ![Job orientation meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/job-orientation-meme.jpg "One last chance!")  
  - Good grades.
  - Prestigious school.
  - Perfect body.
  - Materialism/ High salary.  
    Money is useful only until all the **basics are covered**.  
    The more salary you get the more you want, even if you are earning **3x** the amount you originally wished for.  
-   ![Money happiness meme](assets/money.jpg "It surely helps!")
+   ![Money happiness meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/money.jpg "It surely helps!")
  - Relationships.  
    There is an increase in happiness for 2 years after marriage but back to normal after that.  
-   ![Relationship happiness meme](assets/relationship-meme.jpg "Hard luck!")
+   ![Relationship happiness meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/relationship-meme.jpg "Hard luck!")
 
-------------------------------------------------------------------------
+----------
 
 **What does make you happy:**
  - Random acts of kindness - Help stranger/coworker, give compliments.  
- ![Compliments fishing meme](assets/compliment.png "You are awesome! Yeah you!!")
+ ![Compliments fishing meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/compliment.png "You are awesome! Yeah you!!")
  - Charity - Donate clothes, money, blood etc.  
- ![Charity meme](assets/charity.jpg "Better than nothing")
+ ![Charity meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/charity.jpg "Better than nothing")
  - Volunteering.  
-  ![Volunteering meme](assets/volunteering.jpg "Look harder")
+  ![Volunteering meme](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/volunteering.jpg "Look harder")
  - Be More social - Small talk with strangers.
  - **Exercise** - Scientifically proven to be better than the best anti-depressants available.
  - Sleep.
 
 
--------------------------------------------------------------
+----------
 
 **Better wanting:**
 
@@ -47,7 +45,7 @@ Here are some of the thought-provoking insights from the course:
  - We all need a job.
  - Dont focus on salary increase.
  - Try to find a job in which you are able to use your 'Signature strengths'.  
-   ![Signature strengths](assets/signature-strengths.jpg "Where is 'sleeping all day'?")  
+   ![Signature strengths](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/signature-strengths.jpg "Where is 'sleeping all day'?")  
  - The definition of a signature strength:
     - Ubiquitous; Widely recognized across cultures.
     - Fulfilling.
@@ -70,35 +68,35 @@ Here are some of the thought-provoking insights from the course:
     - Lose your sense of self-consciousness.
     - Lacking in awareness of physical needs.
   - People believe they will be more happy relaxing rather than working in the flow, but this is **WRONG**!!  
-![Challenge vs skill](assets/challenge-vs-skill.svg "Coming up with this sketch was challenging yet relaxing")  
+![Challenge vs skill](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/challenge-vs-skill.png "Coming up with this sketch was challenging yet relaxing")  
 
 **2. Grades**
  - Rather than focussing on grades, focus on learning new stuff.
  - Have a growth mindset.  
-![Fixed vs Growth mindset](assets/fixed-vs-growth-mindset.png "Hard choice, eh?")  
-![Fixed vs Growth mindset](assets/fixed-vs-growth-mindset2.png "Hard choice, eh?")  
+![Fixed vs Growth mindset](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/fixed-vs-growth-mindset.png "Hard choice, eh?")  
+![Fixed vs Growth mindset](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/fixed-vs-growth-mindset2.png "Hard choice, eh?")  
 
 **3. Kindness**
  - Spending money on others gives more happiness than doing it on yourself.
  - No need to spend a fortune.  
    Spending $5 on someone else gives the same benefit as $20.  
-![Charity heart](assets/charity-heart.jpg "Start with me!!")  
+![Charity heart](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/charity-heart.jpg "Start with me!!")  
 
 **4. Social connections**
  - Engage in small talk in train/bus/subway. Share a banana ;)  
-  ![People chatting on subway](assets/small-talk-subway.jpg "I should give my private jet a break I guess")  
+  ![People chatting on subway](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/small-talk-subway.jpg "I should give my private jet a break I guess")  
  - We are afraid if talking to strangers because we think they would not want to talk to us. This is **wrong**!!!
  - People really like company.  
    In one of the experiments people were 7 times more happier when they did not have to be alone as compared to 4x increase in money.
  - Shared experiences are amplified.  
    Listening to my favourite music alone is not as fun as with my friends.  
-  ![Friends listening to music](assets/music-group.jpg "You can skip this if your taste in music is weird like me")    
+  ![Friends listening to music](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/music-group.jpg "You can skip this if your taste in music is weird like me")    
 
 **5. Time affuence**
  - Having enough time to do things you enjoy.
  - Prioritizing time over money brings more happiness.
  - Work for less hours even though it means less money.  
-![Man relaxing on chair](assets/relaxing.jpg "Aaahhhhhh..")  
+![Man relaxing on chair](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/relaxing.jpg "Aaahhhhhh..")  
 
 **6. Meditation**
  - There's a set of neurons in our brains that get activated as soon we stop focusing on some task.
@@ -109,14 +107,14 @@ Here are some of the thought-provoking insights from the course:
    - Loving-Kindness
    - Breathing
    - Body
-  ![Lady meditating with mountains in background](assets/meditation.jpg "Can also be done without the mountains")  
+  ![Lady meditating with mountains in background](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/meditation.jpg "Can also be done without the mountains")  
 
 **7. Health**
  - Exercise is better than the antidepressant Zoloft.
  - Make sure to get enough sleep. Aim for waking up without an alarm.
-  ![Baby sleeping](assets/baby-sleeping.jpg "Sorry for breaking your computer from cuteness overload")  
+  ![Baby sleeping](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/baby-sleeping.jpg "Sorry for breaking your computer from cuteness overload")  
 
-------------------------------------------------------------------------
+----------
 
 
 **Annoying features of the mind**
@@ -126,26 +124,26 @@ Here are some of the thought-provoking insights from the course:
  - Most of the goals/situations that we think will make us happy don't! (Money/Job/Love)
  - *'Miswanting'* - The act of being mistaken about what and how much you're going to like something in the future.
  - Consider the following question:  
- ![Optical Illusion baseball bat price](assets/illusion-baseball-bat-price.png "Wish I could play")  
+ ![Optical Illusion baseball bat price](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/illusion-baseball-bat-price.png "Wish I could play")  
   Most people answer *'10 cents'*, but the actual answer is *'5 cents'*.
  - The length of the 2 lines are exactly the same:  
- ![Optical Illusion 1](assets/illusion-ponzo.jpg "Just kidding!")  
- ![Optical Illusion 2](assets/illusion-line-size.jpg "Got you!")  
+ ![Optical Illusion 1](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/illusion-ponzo.jpg "Just kidding!")  
+ ![Optical Illusion 2](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/illusion-line-size.jpg "Got you!")  
  - The size of the circle in the centre is the same:  
- ![Optical Illusion 3](assets/illusion-circle-size.png "Got you again!")  
+ ![Optical Illusion 3](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/illusion-circle-size.png "Got you again!")  
  - Random interesting animation I found somewhere because why not:  
- ![Random animation](assets/illusion-animation.gif "Are you hypnotized yet?")  
+ ![Random animation](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/illusion-animation.gif "Are you hypnotized yet?")  
  
 
 **2. Comparison**
  - Mind thinks in relative not absolute. That's why we compare with others.
  - Bronze medal winners are happier than silver.  
    Silver winner thinks *'I could have won gold'*, whereas Bronze winner thinks *'I could have been out of the podium'*.  
-   ![Podium happiness](assets/podium-happy.png "I am happy that I got to see it on TV")  
+   ![Podium happiness](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/podium-happy.png "I am happy that I got to see it on TV")  
  - You wouldn't mind walking 10 kms every morning to fetch water if everyone else was doing it too.
  - Let's says you were earning 'x' dollars but now earning 2x but now you start comparing with other 2x people.
  - You feel sad for earning 1 million dollars if your coworker is earning 1.2 million.  
-  ![Coworker pay-cut](assets/coworker-pay-cut.png "Frogs.. sigh!")  
+  ![Coworker pay-cut](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/coworker-pay-cut.png "Frogs.. sigh!")  
 
 **3. Hedonic adaptation**
  - *'Hedonic adaptation'* - We get used to stuff.
@@ -162,9 +160,9 @@ Here are some of the thought-provoking insights from the course:
  - Why are we bad at this:  
    - **Focalism**: Just focussing on one negative thing.
    - **Immune neglect**: We underestimate how resilient we are. We should not be afraid and take risks in life. It will all be okay.  
-  ![All is well](assets/all-is-well.jpg "Just chill!")  
+  ![All is well](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/all-is-well.jpg "Just chill!")  
 
----------------------------------------------------
+----------
 
 **Solutions to the annoying features of the mind**
 
@@ -174,12 +172,12 @@ Here are some of the thought-provoking insights from the course:
  - Invest in experiences instead.  
    The fact that vacation is just 1 week long is a good thing.
  - People think highly of you you more if you invest in experiences rather than stuff. Also they don't get jealous of you!  
-   ![Traveller](assets/traveller.jpg "I wish travelling was cheap")  
+   ![Traveller](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/traveller.jpg "I wish travelling was cheap")  
 
 **2. Savoring**
  - Step outside of an experience to review and appreciate it. Just be aware when experiencing something positive.  
    *Be in the moment*.  
-  ![Woman smelling flower](assets/savouring.jpg "I would have savoured if I wasn't allergic to roses")  
+  ![Woman smelling flower](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/savouring.jpg "I would have savoured if I wasn't allergic to roses")  
  - Savour happy memories of the past.
  - Activities that hurt savoring:
    - Focusing on the future.
@@ -199,12 +197,12 @@ Here are some of the thought-provoking insights from the course:
   - Just imagine this is the last day of your life.
   - You will be fully involved in anything that you're doing.
   - Helps in enjoying the moment; even the trivial ones.  
-   ![Last day of life text](assets/last-day.jpg "Dance like there's no tomorrow")  
+   ![Last day of life text](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/last-day.jpg "Dance like there's no tomorrow")  
 
 **5. Gratefulness**
   - Write a gratitude diary every week.
   - Send a hand-written *Thank-you note* to friends and family. Even better if you recite the note to them directly.  
-   ![Gratefulness diary](assets/grateful-diary.jpg "Does anyone have a pen please? Thank you!")  
+   ![Gratefulness diary](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/grateful-diary.jpg "Does anyone have a pen please? Thank you!")  
 
 **6. Reset your reference points**
  - Concretely re-experience.  
@@ -220,8 +218,9 @@ Here are some of the thought-provoking insights from the course:
  - Increase variety; Do more things and dont do the same thing frequently.
  - Don't watch TV!
  - Quit all social networking websites!  
-  ![Quit social networks](assets/facebook.jpg "not going to happen..")  
+  ![Quit social networks](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/facebook.jpg "not going to happen..")  
 
+----------
 
 **Strategies For Better Habits**
 
@@ -244,10 +243,10 @@ Here are some of the thought-provoking insights from the course:
      - Imagine how good the outcome will be.
      - Imagine all the possible obstacles.
      - Make a plan on how to overcome obstacle.  
-     ![WOOP](assets/woop.png "Woops!!")  
+     ![WOOP](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/woop.png "Woops!!")  
 
 
--------------------------------------------------
+----------
 
 Just knowing all this won't make you happy.
 
