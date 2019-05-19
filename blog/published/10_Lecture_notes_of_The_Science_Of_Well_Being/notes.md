@@ -151,9 +151,9 @@ Here are some of the thought-provoking insights from the course:
    Even though salary increased significantly, yet happiness remained almost the same.
  - One person won a lottery and the other lost their leg in an accident. The happiness levels of both were about the same as before after an year.  
   ![Lottery winner vs Handicap athlete](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/lottery-vs-handicap.jpg "Why do they even participate in lottery")  
- - > Thanks to our capacity to adapt to ever greater fame and fortune, yesterday's luxuries can soon become today's necessities and tomorrow's relics.
  - Our predictions for how much we will be more happy or sad due to some pleasant or unpleasant situation is far from reality.
  - In short our happiness stays almost the same no matter what.
+ - > Thanks to our capacity to adapt to ever greater fame and fortune, yesterday's luxuries can soon become today's necessities and tomorrow's relics.
  - **Miswanting**: The act of being mistaken on what and how much something is going to make you happy.
  - **Impact bias:** The tendency to overestimate the emotional impact of a future event both in terms of its intensity and its duration.
  - Impact bias is worse for negative events.
