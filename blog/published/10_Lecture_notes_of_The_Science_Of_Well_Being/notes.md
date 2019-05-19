@@ -85,7 +85,7 @@ Here are some of the thought-provoking insights from the course:
 **4. Social connections**
  - Engage in small talk in train/bus/subway. Share a banana ;)  
   ![People chatting on subway](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/small-talk-subway.jpg "I should give my private jet a break I guess")  
- - We are afraid if talking to strangers because we think they would not want to talk to us. This is **wrong**!!!
+ - We are afraid of talking to strangers because we think they would not want to talk to us. This is **wrong**!!!
  - People really like company.  
    In one of the experiments people were 7 times more happier when they did not have to be alone as compared to 4x increase in money.
  - Shared experiences are amplified.  
@@ -149,6 +149,8 @@ Here are some of the thought-provoking insights from the course:
  - *'Hedonic adaptation'* - We get used to stuff.
  - A research tracked salaries in Germany for 30 years.  
    Even though salary increased significantly, yet happiness remained almost the same.
+ - One person won a lottery and the other lost their leg in an accident. The happiness levels of both were about the same as before after an year.  
+  ![Lottery winner vs Handicap athlete](https://raw.githubusercontent.com/Anmol-Singh-Jaggi/blog/master/blog/published/10_Lecture_notes_of_The_Science_Of_Well_Being/assets/lottery-vs-handicap.jpg "Why do they even participate in lottery")  
  - > Thanks to our capacity to adapt to ever greater fame and fortune, yesterday's luxuries can soon become today's necessities and tomorrow's relics.
  - Our predictions for how much we will be more happy or sad due to some pleasant or unpleasant situation is far from reality.
  - In short our happiness stays almost the same no matter what.
