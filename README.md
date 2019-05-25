@@ -10,3 +10,4 @@ My blog's articles' source, ideas for new articles etc.
  - [Accidentally removed Linux swap partition from Windows](https://anmolsinghjaggi.wordpress.com/2016/06/20/accidentally-removed-linux-swap-partition-from-windows/)
  - [Editing music using Audacity](https://anmolsinghjaggi.wordpress.com/2018/03/31/editing-music-using-audacity/)
  - [Learning How To Learn](https://anmolsinghjaggi.wordpress.com/2019/03/29/learning-how-to-learn/)
+ - [The Science of Well-Being](https://anmolsinghjaggi.wordpress.com/2019/05/18/298/)
