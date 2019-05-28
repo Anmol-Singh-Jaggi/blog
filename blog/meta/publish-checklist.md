@@ -1,5 +1,5 @@
 **Steps to write a blog post:**
- - Write content.
+ - Write content (Use headings instead of double-asterisks!!).
  - Add images with relative local location.
  - Include title and alt text for each image.
  - Name the images as generic as possible.
@@ -10,6 +10,6 @@
  - Use [this](https://markdowntohtml.com/) to generate HTML.
  - Insert HTML in wordpress HTML editor.
  - Fix image sizes if needed from the visual editor.
- - Add Headings, font-color-changes etc using the visual editor.
+ - Add font-color-changes etc using the visual editor.
  - Attach as many references as possible to improve SEO.
  - Before publishing, check if title is present!!
