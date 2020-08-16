@@ -1,4 +1,8 @@
-- Why `fflush(stdin)` is wrong and `cin.ignore(std::numeric_limits<std::streamsize>::max())` is right?
-- Regex in C++ - `main12c` on spoj.
-- Strict weak ordering in C++ `sort()`.
 - Blog about your own software projects.
+- The linkedin post about jobs.
+- Implementing famous algos with multiprocessing:
+  - Merge sort
+  - Knapsack
+  - Subset sum
+  - Mainly recursive algos
+  - Check if ForkJoinPool will help us in any way.
