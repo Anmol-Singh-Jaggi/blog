@@ -3,6 +3,7 @@
 - Implementing famous algos with multiprocessing:
   - Merge sort
   - Knapsack
+  - BFS
   - Subset sum
   - Mainly recursive algos
   - Check if ForkJoinPool will help us in any way.
